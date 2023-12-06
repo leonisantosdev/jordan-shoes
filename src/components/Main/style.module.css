@@ -1,0 +1,13 @@
+.container {
+  padding: 5rem 2rem;
+  display: flex;
+  flex-direction: column;
+  justify-content: center;
+  align-items: center;
+}
+
+@media (max-width: 450px) {
+  .container {
+    padding: 3rem 1rem;
+  }
+}

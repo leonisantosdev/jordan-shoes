@@ -1,0 +1,44 @@
+.containerInfo {
+  max-width: 28rem;
+  font-family: 'Archivo', sans-serif;
+  color: #fff;
+  margin-left: 5rem;
+  position: absolute;
+  padding-right: 1rem;
+}
+
+.containerInfo h2{
+  padding-top: 1.5rem;
+  padding-bottom: 1rem;
+  font-size: 1.8rem;
+  font-weight: lighter;
+}
+
+.containerInfo p{
+  display: flex;
+  align-items: center;
+  gap: 1rem;
+  font-size: 1.3rem;
+  line-height: 1.3;
+}
+
+@media (max-width: 500px) {
+  .containerInfo {
+    margin-left: 1rem;
+  }
+}
+
+@media (max-width: 400px) {
+  .containerInfo {
+    margin-left: 1rem;
+    padding-right: 1rem;
+  }
+
+  .containerInfo h2 {
+    font-size: 1.5rem;
+  }
+
+  .containerInfo p {
+    font-size: 1.1rem;
+  }
+}

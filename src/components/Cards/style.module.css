@@ -1,0 +1,67 @@
+.container {
+  padding: 1.5rem 0rem 0rem 4rem;
+  display: flex;
+  flex-direction: column;
+  gap: .6rem;
+}
+
+.container p {
+  font-family: 'Archivo', sans-serif;
+  font-size: 1.3rem;
+  font-weight: bold;
+}
+
+.container a{
+  color: rgb(19, 148, 207);
+  font-family: 'Archivo', sans-serif;
+  text-decoration: none;
+  margin-bottom: 1rem;
+  font-size: 1.1rem;
+}
+
+.container a:hover{
+  color: rgb(16, 124, 173);
+
+}
+
+.containerImg {
+  text-align: center;
+  padding: 3rem 3rem;
+  background-color: #f0f0f0;
+  margin-bottom: 1rem;
+  box-shadow: 1px 1px 10px rgba(0, 0, 0, 0.151);
+
+}
+
+.containerImg img {
+  max-width: 200px;
+  transition: .5s;
+}
+
+.containerImg img:hover {
+  transform: scale(1.2);
+}
+
+@media (max-width: 890px) {
+  .container {
+    padding: 1.5rem 0rem;
+  }
+}
+
+@media (max-width: 450px) {
+  .container {
+    padding: 1.5rem 0rem;
+  }
+
+  .container a {
+    font-size: 1rem;
+  }
+
+  .container p {
+    font-size: 1.1rem;
+  }
+
+  .containerImg {
+    padding: 1.5rem 1.5rem;
+  }
+}
