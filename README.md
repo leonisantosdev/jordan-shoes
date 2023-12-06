@@ -26,7 +26,7 @@ Project developed through the Codelândia challenge. A project consisting of a p
 ## 📺 Demonstration
 
 <p align="center">
-  <img alt="Demonstração" src="projectbanner.png" width="800">
+  <img alt="Demonstração" src="projectbanner.png" width="1000">
 </p>
 
 ## 🛠 Technologies
