@@ -22,7 +22,6 @@ export default function Promotion() {
     setNewText(0)
   }
 
-  console.log(newText)
   return (
     <div className={style.promotionInfo}>
       {promotionList[newText]}
