@@ -1,76 +1,70 @@
-<p align="center"><img src="airjordan.png" width="150px"></p>
-
-<div align="center">
-	<h3 align="center">Jordan Shoes</h3>
-	<p align="center">Project created in React.js and CSS, responsive page for basketball athlete Michael Jordan's sneakers.</p>
-</div>
-<h3  align="center">
-		✅ Status: Completed ✅
-</h3>
-<div align="center">
-<a href="https://jordanshoesr.vercel.app/">Access the application by clicking here!</a>
-</div>
-
-## 🗒️ Content
-
-- [About](#-About)
-- [Demonstration](#-Demonstration)
-- [Technologies](#-Technologies)
-- [Pre-requisites](#-Pre-requisites)
-- [How to run?](#-Running-the-application)
-- [Author](#-Author)
-
-## 📖 About
-Project developed through the Codelândia challenge. A project consisting of a page showcasing models of Air Jordan sneakers, a responsive page for all screens. The idea behind creating the project was for experience and studies.
-
-## 📺 Demonstration
-
 <p align="center">
-  <img alt="Demonstração" src="projectbanner.png" width="1000">
+  <img alt="Demonstração" src="projectbanner.png" width="950">
 </p>
 
-## 🛠 Technologies
+<div align="center">
+	<h1 align="center">Jordan Shoes</h1>
+	<p align="center">Projeto criado em React.js e CSS, página responsiva para os tênis do jogador de basquete Michael Jordan.</p>
+</div>
 
-The following tools were used in the construction of the project:
+<h3  align="center">
+		✅ Status: Completo ✅
+</h3>
+<div align="center">
+<a href="https://jordanshoesr.vercel.app/">Acesse a aplicação clicando aqui!</a>
+</div>
 
-- [React](https://developer.mozilla.org/en-US/docs/Learn/Tools_and_testing/Client-side_JavaScript_frameworks/React_getting_started)
-- [CSS](https://developer.mozilla.org/pt-BR/docs/Web/CSS)
+## 🗒️ Conteúdo
 
-## ⚠️ Pre-requisites
+- [Sobre](#-Sobre)
+- [Tecnologias](#-Tecnologias)
+- [Pre-requisitos](#-Pre-requisitos)
+- [Como rodar?](#-Rodando-a-aplicação)
+- [Autor](#-Autor)
 
-Before you begin, you will need to have the following tools installed on your machine:
+## 📖 Sobre
+Projeto desenvolvido por meio do desafio Codelândia. Um projeto composto por uma página que exibe modelos de tênis Air Jordan, uma página responsiva para todas as telas. A ideia por trás da criação do projeto foi para experiência e estudos.
 
+## 🛠 Tecnologias
+
+As seguintes ferramentas foram utilizadas na construção do projeto:
+
+![React](https://img.shields.io/badge/react-%2320232a.svg?style=for-the-badge&logo=react&logoColor=%2361DAFB)
+![CSS3](https://img.shields.io/badge/css3-%231572B6.svg?style=for-the-badge&logo=css3&logoColor=white)
+![Vite](https://img.shields.io/badge/vite-%23646CFF.svg?style=for-the-badge&logo=vite&logoColor=white)
+
+## ⚠️ Pre-requisitos
+
+Antes de começar, você precisará ter as seguintes ferramentas instaladas em sua máquina:
+ <br />
 - [VSCode](https://code.visualstudio.com/)
 - [Git](https://git-scm.com)
 - [NPM](https://www.npmjs.com)
 
 
-## 🔥 Running the application
-
+## 🔥 Rodando a aplicação
 ```bash
-# Download this repository.
-# Access the project folder in VSCode.
-# Run in the terminal "npm run dev".
-# The application will start locally on your machine!
-# Alternatively, access it through the link above in the repository.
+# Clone este repositório.
+# Acesse a pasta do projeto no VSCode.
+# Execute no terminal "npm run dev".
+# A aplicação iniciará localmente em sua máquina!
+# Alternativamente, acesse-a através do link acima no repositório.
 ```
 
-<!-- AUTHOR -->
-
-## 🤓 Author
+## 🤓 Autor
 
 <div align="center" >
-<a href="https://www.linkedin.com/in/leonisantos/">
- <img src="https://avatars.githubusercontent.com/u/110071892?v=4" width="200px;" alt="perfil"/>
+<a href="https://www.linkedin.com/in/leonisantosfernandes/">
+ <img src="https://avatars.githubusercontent.com/u/110071892?v=4" width="160px;" alt="perfil"/>
  <br />
- <b>Leôni Santos</b></a> <a href="https://www.linkedin.com/in/leonisantos/" title="Linkedin">🚀
+ <b>Leôni Santos</b></a> <a href="https://www.linkedin.com/in/leonisantosfernandes/" title="Linkedin">🚀
 </a>
  <br />
  <br />
-Made with ❤️ by Leôni Santos 👋🏽 Get in touch!
+Feito com ❤️ por Leôni Santos 👋🏽 Entre em contato!
 
 </div>
 
-## 📕License
+## 📕 Licença
 
-This project is under the [MIT](./LICENSE).
+Este projeto está sob a [MIT](./LICENSE).
